@@ -6,11 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-matplotlib = "*"
 scikit-multiflow = "*"
 ipykernel = "*"
-ipympl = "*"
-librosa = "*"
 numba = "==0.48"
 
 [requires]
